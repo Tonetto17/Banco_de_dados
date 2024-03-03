@@ -1,3 +1,11 @@
+Motivo:
+
+Para o Canal Nostalgia, os principais motivos para criar um questionário seriam:
+Entender melhor os gostos e opiniões de seus fãs, dessa forma podendo criar e preparar vídeos que tem maior potencial de sucesso;
+Compreender se o caminho e rumo que está seguindo com seu canal e vídeos está sendo bem aceito por sua comunidade;
+Descobrir tópicos que seu público tem interesse em assistir, por se tratar de um canal que conta histórias e faz animações.
+Dessa forma conseguindo uma maior comunicação e interação com sua fanbase. Entendendo melhor a opinião e gosto de todos que o acompanham
+
 Perguntas: 
 
 1) Prefere assistir a vídeos mais longos, como documentários?
