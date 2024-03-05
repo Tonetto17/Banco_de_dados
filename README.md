@@ -10,7 +10,7 @@ Perguntas:
 
 1) Prefere assistir a vídeos mais longos, como documentários?
 
-   ()Sim
+   []Sim
      Explique: Ex.: Porque são mais explicativos.
    
    ()Não
