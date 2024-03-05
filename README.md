@@ -9,6 +9,7 @@ Dessa forma conseguindo uma maior comunicação e interação com sua fanbase. E
 Perguntas: 
 
 1) Prefere assistir a vídeos mais longos, como documentários?
+
    ()Sim
      Explique: Ex.: Porque são mais explicativos.
    
@@ -16,7 +17,8 @@ Perguntas:
      Explique: Ex.: Porque são cansativos.
 
 
-2) Interessa-se por vídeos que exploram teorias e curiosidades históricas?
+3) Interessa-se por vídeos que exploram teorias e curiosidades históricas?
+
    ()Sim
      Explique: Ex.: Porque são bem interessantes.
    
@@ -24,81 +26,91 @@ Perguntas:
      Explique: Ex.: Porque são chatas.
 
 
-3) Está interessado em conteúdos que abordam questões ambientais e de sustentabilidade?
-    ()Sim
+5) Está interessado em conteúdos que abordam questões ambientais e de sustentabilidade?
+
+   ()Sim
      Explique: Ex.: Porque são de extrema importância para a população.
    
    ()Não
      Explique: Ex.: Porque são temas desinteressantes.
 
 
-4) Prefere os vídeos mais antigos do canal ou os mais recentes?
-    ()Antigos
-       Explique: Ex.: Porque eram mais legais.
+7) Prefere os vídeos mais antigos do canal ou os mais recentes?
+
+   ()Antigos
+     Explique: Ex.: Porque eram mais legais.
    
    ()Recentes
      Explique: Ex.: Porque são mais elaborados.
 
 
-5) Está interessado em vídeos que explicam conceitos complexos de forma simples e visualmente atrativa?
-    ()Sim
+9) Está interessado em vídeos que explicam conceitos complexos de forma simples e visualmente atrativa?
+
+   ()Sim
      Explique: Ex.: Porque são mais fáceis de entender.
    
    ()Não
      Explique: Ex.: Porque prefiro aprender de forma complexa.
 
 
-6) Assiste a vídeos em que o Castanhari participa de experimentos práticos?
-   ()Sim
-     Explique: Ex.: Porque gosto de ver na prática acontecendo.
-   
-   ()Não
-     Explique: Ex.: Porque gosto de aprender na teoria.
+11) Assiste a vídeos em que o Castanhari participa de experimentos práticos?
 
-
-7) Gosta de vídeos que desvendam mitos populares?
-   ()Sim
-     Explique: Ex.: Porque gosto de me manter informado.
-   
-   ()Não
-     Explique: Ex.: Porque são irrelevantes.
-
-
-8) Está interessado em conteúdos sobre o futuro da tecnologia?
-   ()Sim
-     Explique: Ex.: Porque quero ficar por dentro da atualidade.
-   
-   ()Não
-     Explique: Ex.: Porque prefiro outros conteúdos.
-
-
-9) Prefere os vídeos que têm um tom mais humorístico ou os mais sérios e informativos?
-   ()Humorístico
-     Explique: Ex.: Porque deixa o vídeo descontraído.
-   
-   ()Sério e informativo
-     Explique: Ex.: Porque aprendo melhor.
-
-
-10) Gosta de vídeos que abordam questões éticas relacionadas à ciência e tecnologia?
     ()Sim
-     Explique: Ex.: Porque é um assunto diferenciado.
+      Explique: Ex.: Porque gosto de ver na prática acontecendo.
    
-   ()Não
-     Explique: Ex.: Porque não é um assunto que me interessa.
+    ()Não
+      Explique: Ex.: Porque gosto de aprender na teoria.
+
+
+11) Gosta de vídeos que desvendam mitos populares?
+
+    ()Sim
+      Explique: Ex.: Porque gosto de me manter informado.
+   
+    ()Não
+      Explique: Ex.: Porque são irrelevantes.
+
+
+11) Está interessado em conteúdos sobre o futuro da tecnologia?
+
+    ()Sim
+      Explique: Ex.: Porque quero ficar por dentro da atualidade.
+   
+    ()Não
+      Explique: Ex.: Porque prefiro outros conteúdos.
+
+
+11) Prefere os vídeos que têm um tom mais humorístico ou os mais sérios e informativos?
+
+    ()Humorístico
+      Explique: Ex.: Porque deixa o vídeo descontraído.
+   
+    ()Sério e informativo
+      Explique: Ex.: Porque aprendo melhor.
+
+
+11) Gosta de vídeos que abordam questões éticas relacionadas à ciência e tecnologia?
+
+    ()Sim
+      Explique: Ex.: Porque é um assunto diferenciado.
+   
+    ()Não
+      Explique: Ex.: Porque não é um assunto que me interessa.
 
 
 11) Prefere vídeos que têm uma abordagem mais educativa ou mais voltada para o entretenimento?
+
     ()Educativo
-     Explique: Ex.: Porque gosto de estar sempre aprendendo.
+      Explique: Ex.: Porque gosto de estar sempre aprendendo.
    
-   ()Entretenimento
-     Explique: Ex.: Porque é mais atraente.
+    ()Entretenimento
+      Explique: Ex.: Porque é mais atraente.
 
 
 12) Está interessado em vídeos que destacam avanços tecnológicos recentes?
+
     ()Sim
-     Explique: Ex.: Porque a tecnologia é o futuro.
+      Explique: Ex.: Porque a tecnologia é o futuro.
    
-   ()Não
-     Explique: Ex.: Porque prefiro outros tipos de conteúdos.
+    ()Não
+      Explique: Ex.: Porque prefiro outros tipos de conteúdos.
