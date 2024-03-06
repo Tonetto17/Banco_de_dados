@@ -1,3 +1,8 @@
+Introdução: 
+O canal Nostalgia é uma referência no YouTube brasileiro, um espaço que diverte, educa e inspira milhões de pessoas que tem o intuito de ensinar de uma forma mais descontraída de diversos assuntos,
+tanto antigos quanto assuntos sobre o mundo atual, fazendo vídeos tanto com animações quanto com o apresentador e dono do canal em tela,
+a maneira escolhida para o vídeo tema normalmente é escolhido pelo público por meio da aba comentário após a publicação do último vídeo.
+
 Motivo:
 
 Para o Canal Nostalgia, os principais motivos para criar um questionário seriam:
